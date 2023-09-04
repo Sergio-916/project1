@@ -1,5 +1,9 @@
 some new feature
 
+<<<<<<< HEAD
 
 и еще
 
+=======
+add another one
+>>>>>>> ced6935d98e1eb2025e29656c1dcb275080a9c3c
